@@ -27,12 +27,3 @@ type the command
 
 `./waf --run src/v2x-lte/examples/v2x-lte-cell`
 
-*The source code of the example can be found in the examples/ directory*
-
-
-### Acknowledgement
-
-- http://www.ict-itetris.eu/
-- https://github.com/alexvoronov/geonetworking
-- https://github.com/riebl/vanetza
-- https://github.com/bastibl/its-g5-cam
